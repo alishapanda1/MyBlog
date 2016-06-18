@@ -1,0 +1,28 @@
+body{
+  background-image:url("images/gameofthrones.jpg");
+}
+
+li{
+  display: inline;
+}
+
+#myposts{
+  background-color: lightgrey;
+
+}
+
+#mypost{
+  border-radius: 25px;
+  border: 20px solid lightgrey;
+  padding:20px;
+  background-color: white;
+}
+
+#myFooter{
+  border-radius: 25px;
+  background-color: lightgrey;
+}
+
+#editor{
+  background-color: black;
+}
